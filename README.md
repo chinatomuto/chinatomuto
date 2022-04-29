@@ -5,7 +5,7 @@ Hi 👋 My name is naeros
 Junior iOS Developer
 --------------------
 
-i've being learning to code right from collage from C. i recently started the path to become an iOS developer in 2021 and the journey has being great so far
+i've being learning to code right from collage from C/C++. i recently started the path to become an iOS developer in 2021 and the journey has being great so far
 
 * ✉️  You can contact me at [nnajinato@yahoo.com](mailto:nnajinato@yahoo.com)
 * 🧠  I'm learning SwiftUI
