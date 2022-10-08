@@ -12,7 +12,7 @@ i've being learning to code right from collage from C/C++. i recently started th
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  I'm also a UI/UX Designer
 * - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything
 - ⚡ Fun fact: Learning never ends!!!
 
